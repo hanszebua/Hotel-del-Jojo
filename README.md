@@ -1,6 +1,6 @@
 # Hotel-del-Jojo
 
-Selamat datang di Hotel del Jojo!
+Selamat datang di *Hotel del Jojo!*
 
 Berikut adalah harga dari kamar-kamar yang kami punya:
 
@@ -11,4 +11,4 @@ Berikut adalah harga dari kamar-kamar yang kami punya:
 | 3 | Taman      |₩5,000,0000|
 | 4 | Bar        |₩1,250,0000|
 
-*Selamat menginap!*
+**Selamat menginap!**
